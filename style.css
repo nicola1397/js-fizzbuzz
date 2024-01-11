@@ -1,0 +1,21 @@
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  line-height: 100px;
+  display: flex;
+  align-content: center;
+  margin: 5px;
+}
+
+.Fizz {
+  background-color: lightgreen;
+}
+
+.Buzz {
+  background-color: orange;
+}
+
+.FizzBuzz {
+  background-color: red;
+}
